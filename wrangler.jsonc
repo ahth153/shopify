@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "shopify",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "fee400ae-bf40-4fe3-b88f-42a8eebb464c",
+      "database_name": "shopify"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
